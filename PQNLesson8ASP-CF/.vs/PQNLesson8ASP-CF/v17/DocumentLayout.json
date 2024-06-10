@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ASP\\PQNLesson8ASP-CF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{303CE404-FA57-4B46-847C-DF9534E30B5E}|PQNLesson8ASP-CF\\PQNLesson8ASP-CF.csproj|e:\\asp\\pqnlesson8asp-cf\\pqnlesson8asp-cf\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303CE404-FA57-4B46-847C-DF9534E30B5E}|PQNLesson8ASP-CF\\PQNLesson8ASP-CF.csproj|solutionrelative:pqnlesson8asp-cf\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303CE404-FA57-4B46-847C-DF9534E30B5E}|PQNLesson8ASP-CF\\PQNLesson8ASP-CF.csproj|E:\\ASP\\PQNLesson8ASP-CF\\pqnlesson8asp-cf\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{303CE404-FA57-4B46-847C-DF9534E30B5E}|PQNLesson8ASP-CF\\PQNLesson8ASP-CF.csproj|solutionrelative:pqnlesson8asp-cf\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303CE404-FA57-4B46-847C-DF9534E30B5E}|PQNLesson8ASP-CF\\PQNLesson8ASP-CF.csproj|E:\\ASP\\PQNLesson8ASP-CF\\pqnlesson8asp-cf\\controllers\\pqnbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303CE404-FA57-4B46-847C-DF9534E30B5E}|PQNLesson8ASP-CF\\PQNLesson8ASP-CF.csproj|solutionrelative:pqnlesson8asp-cf\\controllers\\pqnbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303CE404-FA57-4B46-847C-DF9534E30B5E}|PQNLesson8ASP-CF\\PQNLesson8ASP-CF.csproj|E:\\ASP\\PQNLesson8ASP-CF\\pqnlesson8asp-cf\\controllers\\pqncategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303CE404-FA57-4B46-847C-DF9534E30B5E}|PQNLesson8ASP-CF\\PQNLesson8ASP-CF.csproj|solutionrelative:pqnlesson8asp-cf\\controllers\\pqncategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303CE404-FA57-4B46-847C-DF9534E30B5E}|PQNLesson8ASP-CF\\PQNLesson8ASP-CF.csproj|E:\\ASP\\PQNLesson8ASP-CF\\pqnlesson8asp-cf\\models\\pqnbookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303CE404-FA57-4B46-847C-DF9534E30B5E}|PQNLesson8ASP-CF\\PQNLesson8ASP-CF.csproj|solutionrelative:pqnlesson8asp-cf\\models\\pqnbookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303CE404-FA57-4B46-847C-DF9534E30B5E}|PQNLesson8ASP-CF\\PQNLesson8ASP-CF.csproj|E:\\ASP\\PQNLesson8ASP-CF\\pqnlesson8asp-cf\\models\\pqncategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303CE404-FA57-4B46-847C-DF9534E30B5E}|PQNLesson8ASP-CF\\PQNLesson8ASP-CF.csproj|solutionrelative:pqnlesson8asp-cf\\models\\pqncategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303CE404-FA57-4B46-847C-DF9534E30B5E}|PQNLesson8ASP-CF\\PQNLesson8ASP-CF.csproj|E:\\ASP\\PQNLesson8ASP-CF\\pqnlesson8asp-cf\\models\\pqnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{303CE404-FA57-4B46-847C-DF9534E30B5E}|PQNLesson8ASP-CF\\PQNLesson8ASP-CF.csproj|solutionrelative:pqnlesson8asp-cf\\models\\pqnbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303CE404-FA57-4B46-847C-DF9534E30B5E}|PQNLesson8ASP-CF\\PQNLesson8ASP-CF.csproj|E:\\ASP\\PQNLesson8ASP-CF\\pqnlesson8asp-cf\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{303CE404-FA57-4B46-847C-DF9534E30B5E}|PQNLesson8ASP-CF\\PQNLesson8ASP-CF.csproj|solutionrelative:pqnlesson8asp-cf\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{303CE404-FA57-4B46-847C-DF9534E30B5E}|PQNLesson8ASP-CF\\PQNLesson8ASP-CF.csproj|E:\\ASP\\PQNLesson8ASP-CF\\pqnlesson8asp-cf\\views\\home\\pqnabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{303CE404-FA57-4B46-847C-DF9534E30B5E}|PQNLesson8ASP-CF\\PQNLesson8ASP-CF.csproj|solutionrelative:pqnlesson8asp-cf\\views\\home\\pqnabout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PqnCategoryController.cs",
+              "DocumentMoniker": "E:\\ASP\\PQNLesson8ASP-CF\\PQNLesson8ASP-CF\\Controllers\\PqnCategoryController.cs",
+              "RelativeDocumentMoniker": "PQNLesson8ASP-CF\\Controllers\\PqnCategoryController.cs",
+              "ToolTip": "E:\\ASP\\PQNLesson8ASP-CF\\PQNLesson8ASP-CF\\Controllers\\PqnCategoryController.cs",
+              "RelativeToolTip": "PQNLesson8ASP-CF\\Controllers\\PqnCategoryController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwB4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T16:05:28.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PqnBooksController.cs",
+              "DocumentMoniker": "E:\\ASP\\PQNLesson8ASP-CF\\PQNLesson8ASP-CF\\Controllers\\PqnBooksController.cs",
+              "RelativeDocumentMoniker": "PQNLesson8ASP-CF\\Controllers\\PqnBooksController.cs",
+              "ToolTip": "E:\\ASP\\PQNLesson8ASP-CF\\PQNLesson8ASP-CF\\Controllers\\PqnBooksController.cs",
+              "RelativeToolTip": "PQNLesson8ASP-CF\\Controllers\\PqnBooksController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAqwEkAAACHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T15:50:52.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\ASP\\PQNLesson8ASP-CF\\PQNLesson8ASP-CF\\Web.config",
+              "RelativeDocumentMoniker": "PQNLesson8ASP-CF\\Web.config",
+              "ToolTip": "E:\\ASP\\PQNLesson8ASP-CF\\PQNLesson8ASP-CF\\Web.config",
+              "RelativeToolTip": "PQNLesson8ASP-CF\\Web.config",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAEcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-10T15:11:50.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PqnBookStore.cs",
+              "DocumentMoniker": "E:\\ASP\\PQNLesson8ASP-CF\\PQNLesson8ASP-CF\\Models\\PqnBookStore.cs",
+              "RelativeDocumentMoniker": "PQNLesson8ASP-CF\\Models\\PqnBookStore.cs",
+              "ToolTip": "E:\\ASP\\PQNLesson8ASP-CF\\PQNLesson8ASP-CF\\Models\\PqnBookStore.cs",
+              "RelativeToolTip": "PQNLesson8ASP-CF\\Models\\PqnBookStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAUwA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T14:18:19.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pqnbook.cs",
+              "DocumentMoniker": "E:\\ASP\\PQNLesson8ASP-CF\\PQNLesson8ASP-CF\\Models\\Pqnbook.cs",
+              "RelativeDocumentMoniker": "PQNLesson8ASP-CF\\Models\\Pqnbook.cs",
+              "ToolTip": "E:\\ASP\\PQNLesson8ASP-CF\\PQNLesson8ASP-CF\\Models\\Pqnbook.cs",
+              "RelativeToolTip": "PQNLesson8ASP-CF\\Models\\Pqnbook.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T14:06:19.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PqnCategory.cs",
+              "DocumentMoniker": "E:\\ASP\\PQNLesson8ASP-CF\\PQNLesson8ASP-CF\\Models\\PqnCategory.cs",
+              "RelativeDocumentMoniker": "PQNLesson8ASP-CF\\Models\\PqnCategory.cs",
+              "ToolTip": "E:\\ASP\\PQNLesson8ASP-CF\\PQNLesson8ASP-CF\\Models\\PqnCategory.cs",
+              "RelativeToolTip": "PQNLesson8ASP-CF\\Models\\PqnCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T14:03:03.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PQNAbout.cshtml",
+              "DocumentMoniker": "E:\\ASP\\PQNLesson8ASP-CF\\PQNLesson8ASP-CF\\Views\\Home\\PQNAbout.cshtml",
+              "RelativeDocumentMoniker": "PQNLesson8ASP-CF\\Views\\Home\\PQNAbout.cshtml",
+              "ToolTip": "E:\\ASP\\PQNLesson8ASP-CF\\PQNLesson8ASP-CF\\Views\\Home\\PQNAbout.cshtml",
+              "RelativeToolTip": "PQNLesson8ASP-CF\\Views\\Home\\PQNAbout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T13:57:33.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\ASP\\PQNLesson8ASP-CF\\PQNLesson8ASP-CF\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PQNLesson8ASP-CF\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\ASP\\PQNLesson8ASP-CF\\PQNLesson8ASP-CF\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PQNLesson8ASP-CF\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:57:09.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\ASP\\PQNLesson8ASP-CF\\PQNLesson8ASP-CF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PQNLesson8ASP-CF\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\ASP\\PQNLesson8ASP-CF\\PQNLesson8ASP-CF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PQNLesson8ASP-CF\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T13:55:16.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
